@@ -1,0 +1,17 @@
+:root {
+	--color-primary: #AC2318;
+	--color-secondary: #D9D9D9;
+
+	background-color: white;
+	font-family: Coiny;
+}
+
+h1 {
+	color: #AC2318;
+	text-align: center;
+}
+
+h2 {	
+	color: black;
+}
+
